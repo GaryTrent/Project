@@ -1,0 +1,10 @@
+name: garima_project
+title:
+username: garimatrent
+account: garimatrent
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11697531
+bundleId: 8468120
+url: https://garimatrent.shinyapps.io/garima_project/
+version: 1
